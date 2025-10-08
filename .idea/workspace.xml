@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="25658150-dd9f-4be2-967d-f63b71fca6fd" name="Changes" comment="Comment Added">
-      <change beforePath="$PROJECT_DIR$/Pipfile" beforeDir="false" afterPath="$PROJECT_DIR$/Pipfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="25658150-dd9f-4be2-967d-f63b71fca6fd" name="Changes" comment="Output name variable added" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -113,7 +110,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1759928975920</updated>
-      <workItem from="1759928977012" duration="2371000" />
+      <workItem from="1759928977012" duration="2694000" />
     </task>
     <task id="LOCAL-00001" summary="project creation">
       <option name="closed" value="true" />
@@ -147,7 +144,31 @@
       <option name="project" value="LOCAL" />
       <updated>1759929386744</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Fully working pdf merger">
+      <option name="closed" value="true" />
+      <created>1759931641340</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1759931641340</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Output name variable added">
+      <option name="closed" value="true" />
+      <created>1759931836303</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1759931836303</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Output name variable added">
+      <option name="closed" value="true" />
+      <created>1759931854304</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1759931854304</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -156,9 +177,11 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="project creation" />
     <MESSAGE value="Comment Added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Comment Added" />
+    <MESSAGE value="Fully working pdf merger" />
+    <MESSAGE value="Output name variable added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Output name variable added" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/PDF_Merger$main.coverage" NAME="main Coverage Results" MODIFIED="1759931331113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PDF_Merger$main.coverage" NAME="main Coverage Results" MODIFIED="1759931787278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
