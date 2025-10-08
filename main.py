@@ -4,11 +4,12 @@ import os
 
 merger = PdfMerger()
 
+output_file_name = "Merged.pdf"
 
 for filename in os.listdir(os.curdir):
-    if filename.endswith(".pdf"):
+    if filename.endswith(".pdf") and filename != output_file_name:
         merger.append(filename)
 
-merger.write("Combined.pdf")
+merger.write(output_file_name)
 merger.close()
 print("pdf merge completed")
